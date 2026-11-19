@@ -60,8 +60,7 @@ Add your project screenshots here:
 
 ## Contact
 
-**Email:** shopeasy@example.com  
-**Phone:** +91 9876543210
+**Email:** shopeasy@example.com
 
 ## License
 
