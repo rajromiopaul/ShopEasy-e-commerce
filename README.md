@@ -49,10 +49,6 @@ ShopEasy/
 
 Add your project screenshots here:
 
-```markdown
-![ShopEasy Homepage](screenshots/homepage.png)
-```
-
 ## Future Improvements
 
 - Add-to-cart functionality using JavaScript.
